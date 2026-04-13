@@ -2,7 +2,6 @@
   <img src="namcard.png" />
 </p><!-- HERO SECTION -->
 
-<h1 align="center">Sorol</h1>
 
 <p align="center">
   <b>Frontend Developer • UI/UX Enthusiast • Creative Builder</b>
