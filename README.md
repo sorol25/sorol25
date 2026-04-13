@@ -44,7 +44,7 @@ I’m a **Frontend Developer** who loves crafting clean, modern, and user-friend
 ### 🍔 Khadok 2.0
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Khadok+UI+Preview" />
+   [KHADOK]([https://github.com/sorol25/project](https://github.com/IamSadik/Khadok_Restaurant_Management_System))
 </p>
 
 ✨ Smart food discovery platform with modern UI
