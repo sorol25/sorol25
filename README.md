@@ -44,8 +44,9 @@ I’m a **Frontend Developer** who loves crafting clean, modern, and user-friend
 ### 🍔 Khadok 2.0
 
 <a href="https://github.com/IamSadik/Khadok_Restaurant_Management_System">
-  <img src="https://img.shields.io/badge/Live%20Demo-Visit-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Demo-Visit-blue?style=for-the-badge" />
 </a>
+
 ✨ Smart food discovery platform with modern UI
 ⚡ Focus: Responsive design, clean UX, real-time interaction
 
