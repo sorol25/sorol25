@@ -96,10 +96,21 @@ I’m a **Frontend Developer** who loves crafting clean, modern, and user-friend
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IamSadik/IamSadik/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/sorol25/sorol25/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
+
+## ⚡ Advanced Metrics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sorol25&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sorol25&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sorol25&theme=tokyonight"/>
+</p>
 
 ## 💬 Philosophy
 
