@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[YOUR_BANNER_LINK_HERE](https://github.com/sorol25/sorol25/blob/main/namcard.png)" />
+  <img src="namcard.png" />
 </p><!-- HERO SECTION -->
 
 <h1 align="center">Sorol</h1>
