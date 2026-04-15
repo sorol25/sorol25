@@ -55,8 +55,9 @@ I’m a **Frontend Developer** who loves crafting clean, modern, and user-friend
 ### 🎯 Portfolio Website
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Portfolio+Preview" />
-</p>
+<a href="https://github.com/sorol25/Portfolio-Website">
+  <img src="https://img.shields.io/badge/Demo-Visit-blue?style=for-the-badge" />
+</a>
 
 ✨ Personal portfolio with animations & timeline effects
 ⚡ Focus: Visual storytelling & smooth transitions
@@ -94,11 +95,7 @@ I’m a **Frontend Developer** who loves crafting clean, modern, and user-friend
 </p>
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sorol25/sorol25/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 ---
 
