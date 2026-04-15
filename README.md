@@ -104,9 +104,7 @@ I’m a **Frontend Developer** who loves crafting clean, modern, and user-friend
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sorol25&theme=tokyonight"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sorol25&layout=compact&theme=tokyonight)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=sorol25&show_icons=true&theme=tokyonight)
+<img src="https://raw.githubusercontent.com/sorol25/sorol25/main/profile-summary-card-output/repos-per-language.svg">
 
 ## 💬 Philosophy
 
