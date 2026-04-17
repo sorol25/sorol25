@@ -21,9 +21,9 @@
   <a href="https://sorol25.github.io/Portfolio-Website/">
     <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-black?style=for-the-badge" />
   </a>
-  <a href="mailto:sorolalam2000@gmail.com">
-    <img src="https://img.shields.io/badge/📧 Email-Contact-red?style=for-the-badge" />
-  </a>
+<a href="mailto:sorolalam2000@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
   <a href="https://www.linkedin.com/in/yeamine-alam-sorol-746831347/">
     <img src="https://img.shields.io/badge/💼 LinkedIn-Connect-blue?style=for-the-badge" />
   </a>
