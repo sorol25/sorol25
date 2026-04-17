@@ -1,35 +1,50 @@
+<!-- HERO BANNER -->
 <p align="center">
-  <img src="namcard.png" />
-</p><!-- HERO SECTION -->
-
-
-<p align="center">
-  <b>Frontend Developer • UI/UX Enthusiast • Creative Builder</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=200&section=header&text=Yeamine%20Alam%20Sorol&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Crafting+Beautiful+User+Interfaces;Building+Interactive+Web+Experiences;Turning+Ideas+Into+Reality" />
+  <img src="namcard.png" width="180"/>
 </p>
 
 <p align="center">
-  <a href="https://sorol25.github.io/Portfolio-Website/"><img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge" /></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sorolalam2000@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" />
-</a>
-  <a href="https://www.linkedin.com/in/yeamine-alam-sorol-746831347/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" /></a>
+  <b>Frontend Developer • UI/UX Designer • Creative Builder</b>
+</p>
+
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Crafting+Modern+UI/UX;Building+Interactive+Web+Apps;Frontend+Meets+AI;Clean+Code+%2B+Smooth+Experience" />
+</p>
+
+<!-- BADGES -->
+<p align="center">
+  <a href="https://sorol25.github.io/Portfolio-Website/">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-black?style=for-the-badge" />
+  </a>
+  <a href="mailto:sorolalam2000@gmail.com">
+    <img src="https://img.shields.io/badge/📧 Email-Contact-red?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/yeamine-alam-sorol-746831347/">
+    <img src="https://img.shields.io/badge/💼 LinkedIn-Connect-blue?style=for-the-badge" />
+  </a>
+</p>
+
+<!-- VISITOR COUNT -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sorol25&label=Profile%20Views&color=00F7FF&style=flat" />
 </p>
 
 ---
 
 ## 🎨 About Me
 
-I’m a **Frontend Developer** who loves crafting clean, modern, and user-friendly interfaces.
+I’m a **Frontend Developer & UI/UX Enthusiast** passionate about building modern, scalable, and visually engaging web experiences.
 
-* 🎯 Focused on **UI/UX & interaction design**
-* ⚡ Building **responsive & high-performance web apps**
-* 🎬 Skilled in **animations & smooth user experience**
-* 🧠 Exploring **AI-integrated frontend experiences**
-* 🤝 Open to **freelance & collaboration opportunities**
+- 🎯 Specialized in **UI/UX & interaction design**
+- ⚡ Focused on **performance & responsiveness**
+- 🎬 Skilled in **animations & micro-interactions**
+- 🤖 Exploring **AI-powered frontend applications**
+- 🤝 Open to **freelance, internships & collaborations**
 
 ---
 
@@ -43,27 +58,31 @@ I’m a **Frontend Developer** who loves crafting clean, modern, and user-friend
 
 ## 🚀 Featured Projects
 
-### 🍔 Khadok 2.0
+### 🍔 Khadok 2.0 — Restaurant Management System
 
 <p align="center">
-<a href="https://github.com/IamSadik/Khadok_Restaurant_Management_System">
-  <img src="https://img.shields.io/badge/Demo-Visit-blue?style=for-the-badge" />
-</a>
+  <a href="https://github.com/IamSadik/Khadok_Restaurant_Management_System">
+    <img src="https://img.shields.io/badge/🔗 View Project-blue?style=for-the-badge" />
+  </a>
+</p>
 
-✨ Smart food discovery platform with modern UI
-⚡ Focus: Responsive design, clean UX, real-time interaction
+- Built a **modern food discovery platform**
+- Designed **clean and responsive UI**
+- Implemented **real-time interaction features**
 
 ---
 
 ### 🎯 Portfolio Website
 
 <p align="center">
-<a href="https://github.com/sorol25/Portfolio-Website">
-  <img src="https://img.shields.io/badge/Demo-Visit-blue?style=for-the-badge" />
-</a>
+  <a href="https://github.com/sorol25/Portfolio-Website">
+    <img src="https://img.shields.io/badge/🔗 View Project-blue?style=for-the-badge" />
+  </a>
+</p>
 
-✨ Personal portfolio with animations & timeline effects
-⚡ Focus: Visual storytelling & smooth transitions
+- Developed **interactive portfolio with animations**
+- Focused on **visual storytelling & UX flow**
+- Smooth transitions and modern layout
 
 ---
 
@@ -73,30 +92,38 @@ I’m a **Frontend Developer** who loves crafting clean, modern, and user-friend
   <img src="https://via.placeholder.com/800x400.png?text=AI+UI+Project" />
 </p>
 
-✨ Frontend for AI-powered application
-⚡ Focus: API integration + user-friendly UI
+- Designed **frontend for AI-powered system**
+- Integrated APIs for dynamic interaction
+- Focus on **usability & accessibility**
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Stats
 
 <p align="center">
-
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sorol25&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sorol25&theme=tokyonight&hide_border=true"/>
 </p>
 
-
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorol25&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 📈 Activity
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sorol25&theme=tokyo-night&hide_border=true"/>
 </p>
+
 ---
 
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sorol25/sorol25/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
@@ -106,13 +133,27 @@ I’m a **Frontend Developer** who loves crafting clean, modern, and user-friend
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sorol25&theme=tokyonight"/>
 </p>
 
+---
 
 ## 💬 Philosophy
 
-> "Good design is obvious. Great design is transparent."
+> “Good design is obvious. Great design is transparent.”
+
+---
+
+## 🎯 Current Focus
+
+- 🚀 Building **production-ready frontend apps**
+- 🤖 Exploring **AI + Web integration**
+- 📊 Learning **system design & scalability**
+- 💼 Preparing for **internships & job opportunities**
 
 ---
 
 ## ⭐ Support
 
 If you like my work, consider giving a ⭐ to my repositories!
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00F7FF&height=120&section=footer"/>
+</p>
