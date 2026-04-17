@@ -119,23 +119,24 @@ I’m a **Frontend Developer & UI/UX Enthusiast** passionate about building mode
 
 ---
 
-## 🐍 Contribution Snake
+<!-- VALUE PROPOSITION -->
 
-<!-- LIVE DEV PRESENCE -->
-
-<h2 align="center">⚡ Live Developer Presence</h2>
+<h2 align="center">🚀 What I Bring to the Table</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sorol25&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://img.shields.io/badge/Clean%20UI-Modern%20Design-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Responsive-All%20Devices-007BFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Performance-Optimized-111111?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sorol25&theme=tokyonight&utcOffset=6"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sorol25&theme=tokyonight"/>
+  <img src="https://img.shields.io/badge/UX-User%20Focused-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Code-Scalable%20%26%20Clean-007BFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Frontend-AI%20Ready-111111?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <i>Consistently building, learning, and shipping impactful projects.</i>
+  <i>I don’t just build interfaces — I craft experiences that users remember.</i>
 </p>
 
 
