@@ -137,7 +137,9 @@ I’m a **Frontend Developer & UI/UX Enthusiast** passionate about building mode
 
 ## 💬 Philosophy
 
-> “Good design is obvious. Great design is transparent.”
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=120&section=header&text=Good%20design%20is%20obvious.%20%7C%20Great%20design%20is%20transparent.&fontSize=18&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
 ---
 
