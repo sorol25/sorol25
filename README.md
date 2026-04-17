@@ -121,9 +121,23 @@ I’m a **Frontend Developer & UI/UX Enthusiast** passionate about building mode
 
 ## 🐍 Contribution Snake
 
+<!-- LIVE DEV PRESENCE -->
+
+<h2 align="center">⚡ Live Developer Presence</h2>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sorol25/sorol25/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sorol25&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sorol25&theme=tokyonight&utcOffset=6"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sorol25&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <i>Consistently building, learning, and shipping impactful projects.</i>
+</p>
+
 
 ---
 
