@@ -137,8 +137,26 @@ I’m a **Frontend Developer & UI/UX Enthusiast** passionate about building mode
 
 ## 💬 Philosophy
 
+<!-- PHILOSOPHY SECTION -->
+
+<h2 align="center">💬 Design Philosophy</h2>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=120&section=header&text=Good%20design%20is%20obvious.%20%7C%20Great%20design%20is%20transparent.&fontSize=18&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=30&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Good+design+is+obvious.;Great+design+is+transparent."/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00F7FF,100:007BFF&height=3&section=header"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Design-Thinking-00F7FF?style=for-the-badge&logo=figma&logoColor=black"/>
+  <img src="https://img.shields.io/badge/User-Centered-007BFF?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Experience-Driven-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
+
+<p align="center">
+  <i>Crafting interfaces that feel invisible, intuitive, and effortless.</i>
 </p>
 
 ---
