@@ -185,9 +185,16 @@ I’m a **Frontend Developer & UI/UX Enthusiast** passionate about building mode
 
 ---
 
-## ⭐ Support
+## ⭐ Support My Work
 
-If you like my work, consider giving a ⭐ to my repositories!
+<p align="center">
+If you find my projects useful or inspiring, consider giving them a ⭐ — it truly helps and motivates me to build more.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Support-Open%20Source-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub-Star%20Projects-007BFF?style=for-the-badge"/>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00F7FF&height=120&section=footer"/>
