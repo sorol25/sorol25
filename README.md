@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="namcard.png" alt="Name Card" width="600" />
+  <img src="namcard.png" alt="Name Card" width="900" />
 </p>
 
 <p align="center">
