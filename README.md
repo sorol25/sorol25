@@ -1,10 +1,11 @@
+
 <!-- HERO BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=200&section=header&text=Yeamine%20Alam%20Sorol&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
 <p align="center">
-  <img src="namcard.png" alt="Name Card" width="700" />
+  <img width="2172" height="724" alt="ChatGPT Image Apr 23, 2026, 07_29_52 PM" src="https://github.com/user-attachments/assets/6df89aa2-fc87-43c0-92b6-f9a07883dfbe" />
 </p>
 
 <p align="center">
