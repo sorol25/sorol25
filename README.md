@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <img width="2172" height="724" alt="ChatGPT Image Apr 23, 2026, 07_29_52 PM" src="https://github.com/user-attachments/assets/6df89aa2-fc87-43c0-92b6-f9a07883dfbe" />
+  <img  height="600" alt="ChatGPT Image Apr 23, 2026, 07_29_52 PM" src="https://github.com/user-attachments/assets/6df89aa2-fc87-43c0-92b6-f9a07883dfbe" />
 </p>
 
 <p align="center">
-  <b>Frontend Developer • UI/UX Designer • Creative Builder</b>
+  <b>Full-Stack Developer • UI/UX Designer • Creative Builder</b>
 </p>
 
 <!-- TYPING ANIMATION -->
@@ -39,9 +39,11 @@
 
 ## 🎨 About Me
 
-I’m a **Frontend Developer & UI/UX Enthusiast** passionate about building modern, scalable, and visually engaging web experiences.
+I’m a Full Stack Developer and Machine Learning Enthusiast passionate about building scalable systems, modern web applications, and intelligent solutions powered by data.
 
-- 🎯 Specialized in **UI/UX & interaction design**
+I work across the full development lifecycle — from designing clean user interfaces to building backend APIs, database systems, and integrating machine learning models into real-world applications.
+
+- 🎯 Specialized in **Web & UI/UX & interaction design**
 - ⚡ Focused on **performance & responsiveness**
 - 🎬 Skilled in **animations & micro-interactions**
 - 🤖 Exploring **AI-powered frontend applications**
@@ -52,7 +54,7 @@ I’m a **Frontend Developer & UI/UX Enthusiast** passionate about building mode
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mysql,python,git,github,vscode,figma" />
 </p>
 
 ---
@@ -176,13 +178,13 @@ I’m a **Frontend Developer & UI/UX Enthusiast** passionate about building mode
 </p>
 
 ---
-
 ## 🎯 Current Focus
-
-- 🚀 Building **production-ready frontend apps**
-- 🤖 Exploring **AI + Web integration**
-- 📊 Learning **system design & scalability**
-- 💼 Preparing for **internships & job opportunities**
+💻 Full Stack Web Development**
+⚙️ Backend Systems & API Development**
+🧠 Machine Learning & AI Integration**
+🎨 UI/UX Design & User-Centered Experiences**
+📊 Problem Solving with Data-Driven Thinking**
+🚀 Performance, Scalability & Clean Architecture**
 
 ---
 
