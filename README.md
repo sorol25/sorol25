@@ -210,6 +210,10 @@ I build across the full lifecycle: pixel-perfect frontends, scalable backend API
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sorol25&theme=tokyonight"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sorol25&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sorol25&theme=tokyonight"/>
+</p>
 ---
 
 ## 🎯 Current Focus
